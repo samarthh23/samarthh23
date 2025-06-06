@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an engineering student with a deep interest in Web Development, Artificial Intelligence, Machine Learning, and Competitive Programming. I'm passionate about building intelligent systems and web applications that solve real-world problems. I'm constantly learning and eager to contribute to innovative projects.<br>
+I'm an engineering student with a deep interest in Web Development, Machine Learning, and Competitive Programming. I'm passionate about building intelligent systems and web applications that solve real-world problems. I'm constantly learning and eager to contribute to innovative projects.<br>
 
 
 ## 🌐 Socials:
